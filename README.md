@@ -2,8 +2,8 @@
 
 ---
 
-## 💫 About Me:  
-- I’m a FiveM developer with about a year of experience creating custom scripts and managing servers. I enjoy working on scalable solutions and finding creative ways to improve gameplay. Always open to remote projects or collaborations—feel free to reach out!
+## 💫 General:  
+-🛠️  Are you looking to improve your experience on Fivem with quality scripts? Look no further, we are here for you!  🔧
 
 ---
 
