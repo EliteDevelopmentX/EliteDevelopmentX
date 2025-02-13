@@ -20,7 +20,7 @@
 
 ## 📬 Contact:  
 <p align="center">
-  <b>Discord:</b> britas
+  <b>Discord:</b> https://discord.gg/9AG5QuJ3CB
   <br>
 </p>
 
