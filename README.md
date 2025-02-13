@@ -21,6 +21,8 @@
 ## 📬 Contact:  
 <p align="center">
   <b>Discord:</b> https://discord.gg/9AG5QuJ3CB
+  <b>Website:Htpps://elitedevelopment.lt</b>
+  <b>Tebex:Soon</b>
   <br>
 </p>
 
