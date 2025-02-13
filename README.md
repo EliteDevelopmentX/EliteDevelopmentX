@@ -3,7 +3,7 @@
 ---
 
 ## 💫 General:  
--🛠️  Are you looking to improve your experience on Fivem with quality scripts? Look no further, we are here for you!  🔧
+🛠️  Are you looking to improve your experience on Fivem with quality scripts? Look no further, we are here for you!  🔧
 
 ---
 
