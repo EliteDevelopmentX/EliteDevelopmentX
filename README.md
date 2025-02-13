@@ -20,11 +20,11 @@
 
 ## 📬 Contact:  
 <p align="center">
-  <b>Discord:</b> https://discord.gg/9AG5QuJ3CB
-  <b>Website:Htpps://elitedevelopment.lt</b>
-  <b>Tebex:Soon</b>
-  <br>
+  <b>Discord:</b> <a href="https://discord.gg/9AG5QuJ3CB">https://discord.gg/9AG5QuJ3CB</a> <br>
+  <b>Website:</b> <a href="https://elitedevelopment.lt">https://elitedevelopment.lt</a> <br>
+  <b>Tebex:</b> Soon
 </p>
+
 
 ## ✨ Stats: 
 
