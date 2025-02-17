@@ -23,6 +23,7 @@
   <b>Discord:</b> <a href="https://discord.gg/9AG5QuJ3CB">https://discord.gg/9AG5QuJ3CB</a> <br>
   <b>Website:</b> <a href="https://elitedevelopment.lt">https://elitedevelopment.lt</a> <br>
   <b>Tebex:</b> <a href="https://elitedevelopment.lt">https://elitedevelopment.tebex.io/</a> <br>
+  <b>Documentation:</b> <a href="https://elitedevelopment.lt">https://elite-store.gitbook.io/elite-store-docs/</a> <br>
 </p>
 
 
